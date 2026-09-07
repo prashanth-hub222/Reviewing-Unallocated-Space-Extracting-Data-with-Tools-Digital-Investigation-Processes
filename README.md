@@ -1,4 +1,6 @@
 # Reviewing-Unallocated-Space-Extracting-Data-with-Tools-Digital-Investigation-Processes
+### NAME -Prashanth Raaj S
+### REG NO - 212225100035
 ## AIM:
 To review unallocated space in a disk image, extract data using forensic tools, and understand the digital investigation process.
 ## REQUIREMENTS
@@ -43,6 +45,14 @@ flowchart TD
 
 ## OUTPUT:
 Unallocated Space Analysis and Extracted Data Report
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/e2170e00-5be9-4dea-a5dd-ce28d7d3a3c7" />
+<img width="1600" height="898" alt="image" src="https://github.com/user-attachments/assets/13ebd048-a30f-4ec1-96e8-1116fb11bdc0" />
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/9e89ba88-2737-4fbe-8d50-7a855094fb1c" />
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/91851f2c-e916-4a81-a27a-e4840f31e29a" />
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/72f60c9a-190e-42b4-ae19-10d49ceca1ea" />
+<img width="1600" height="779" alt="image" src="https://github.com/user-attachments/assets/c2050f97-5d0d-46c7-b383-7c2fbfba5ee6" />
+<img width="1600" height="740" alt="image" src="https://github.com/user-attachments/assets/08db9a18-1b5f-4c5b-91c0-4a11ecfbd3ac" />
+
 
 ## RESULT:
 The unallocated space was successfully analyzed, data was extracted, and the digital investigation process was followed effectively.
